@@ -4,7 +4,7 @@ Projects involving AutoEncoders, Boltzmann Systems, Artificial neural networks a
 Dataset For Churn Predictions:
 https://www.kaggle.com/datasets/avhikj/churn-predictions-personal
 
-Dataset for CNN-Animals
+Dataset for CNN-Animal Recognition
 https://www.kaggle.com/datasets/jayant99/cnn-cats-and-dogs
 
-For other datasets  and files used in the .ipynb files check the data folder. 
+For other datasets  and files used in the .ipynb files check the `data` folder. 
